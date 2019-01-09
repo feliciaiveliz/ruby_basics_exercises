@@ -1,0 +1,4 @@
+Locate the description of the while loop in the ruby documentation.
+=> Locate Core API on main page. 
+=> Go to Control expressions page.
+=> Scroll down until you find the 'while loop' section.
